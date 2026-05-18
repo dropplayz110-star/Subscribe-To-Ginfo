@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Nord_Smp.aternos",
+    "ip": "Nord_Smp.aternos.me",
     "port": 16481,
     "version": "1.20.1",
     "try-creative": false
